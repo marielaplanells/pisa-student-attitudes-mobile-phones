@@ -2,7 +2,7 @@ TÍTULO
 # pisa-student-attitudes-mobile-phones
 Analysis of student attitudes toward mobile phone regulation in schools using PISA 2022 data (Argentina).
 
-![Infographic](https://)
+![Student attitudes infographic](mobile_phone_infographic.png)
 
 DESCRIPTION
 This project explores how students perceive different forms of digital device regulation in schools.
